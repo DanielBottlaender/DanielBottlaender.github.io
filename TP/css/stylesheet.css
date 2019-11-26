@@ -34,19 +34,18 @@ body{
     background-color: transparent;
     padding: 70px;
     margin-left: 10px;
+    margin-right: 35%;
     font-size: 20px;
     font-weight: bold;
 }
 .searchlogo{
-    background-color: red;
     padding: 50px;
     margin-right: auto;
 }
 
 .cartlogo{
-    background-color: cyan;
     padding: 50px;
-    margin-right: auto;
+    margin-right: 0;
 }
 .barreblanche{
     background-color: whitesmoke;
@@ -62,13 +61,15 @@ body{
 .contentflex{
     display: flex;
     justify-content: flex-start;
+    font-family: arial; 
 }
-.pageindicator{
+.textinpage{
     font-size: 15px;
-    padding-left: 150px;
+    padding-left: 75px;
     padding-top: 60px;
+    font-size: 18px;
 }
 .fruitimage{
-    padding: 30px;
+    padding: 0px;
     padding-top: 150px;
 }
