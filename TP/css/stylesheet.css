@@ -21,39 +21,41 @@ body{
 
 .Chaussures{
     background-color: transparent;
-    padding: 60px;
-    margin-left: 40px;
+    padding: 70px;
+    margin-left: 10px;
     font-size: 20px;
     font-weight: bold;
 }
-
 .Mobilier{
     background-color: transparent;
-    padding: 60px;
-    margin-left: 40px;
+    padding: 70px;
+    margin-left: 10px;
     font-size: 20px;
     font-weight: bold;
 }
-
 .Fruits{
     background-color: transparent;
-    padding: 60px;
-    margin-left: 40px;
+    padding: 70px;
+    margin-left: 10px;
     font-size: 20px;
     font-weight: bold;
 }
 
+
 .searchlogo{
-    background-color: transparent;
-    padding: 60px;
-    margin-left: auto;
+    background-color: red;
+    padding: 50px;
+    margin-right: auto;
 }
 
 .cartlogo{
-    background-color: transparent;
-    padding: 60px;
-    margin-left: 100px;
+    background-color: cyan;
+    padding: 50px;
+    margin-right: auto;
 }
+
+
+
 
 .barreblanche{
     background-color: whitesmoke;
